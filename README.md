@@ -1,6 +1,7 @@
 # TaskCLI
 
 TaskCLI is a simple command-line task manager to help you manage your daily tasks.
+Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
 
 ## Installation
 
