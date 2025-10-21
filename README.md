@@ -15,7 +15,7 @@ Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker)
     ```
 3.  Install the dependencies:
     ```bash
-    npm install
+    npm install -g
     ```
 
 ## Usage
